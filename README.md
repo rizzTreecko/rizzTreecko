@@ -70,7 +70,7 @@
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/rizzTreecko/rizzTreecko/output/github-contribution-grid-snake.svg)
+[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=rizzTreecko&theme=github-dark&bg_color=0d1117&color=c9d1d9&line=6AD3F3&point=6AD3F3&area=true&hide_border=true)](https://github.com/rizzTreecko)
 
 </div>
 
@@ -80,7 +80,8 @@
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rizzTreecko&repo=shopee_bot&theme=transparent&hide_border=true&title_color=6AD3F3&text_color=c9d1d9&bg_color=0d1117&border_radius=10)](https://github.com/rizzTreecko/shopee_bot)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rizzTreecko&repo=wcdonalds&theme=transparent&hide_border=true&title_color=6AD3F3&text_color=c9d1d9&bg_color=0d1117&border_radius=10)](https://github.com/rizzTreecko/wcdonalds)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rizzTreecko&repo=CapstonProject.VietnameseTrafficDetection&theme=transparent&hide_border=true&title_color=6AD3F3&text_color=c9d1d9&bg_color=0d1117&border_radius=10)](https://github.com/rizzTreecko/CapstonProject.VietnameseTrafficDetection)
 
 </div>
 
