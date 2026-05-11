@@ -78,11 +78,10 @@
 
 ## 🌟 Featured Projects
 
-<div align="center">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rizzTreecko&repo=shopee_bot&theme=transparent&hide_border=true&title_color=6AD3F3&text_color=c9d1d9&bg_color=0d1117&border_radius=10)](https://github.com/rizzTreecko/shopee_bot)
-
-</div>
+| Project | Description |
+| --- | --- |
+| [wcdonalds](https://github.com/rizzTreecko/wcdonalds) | A modern, mobile-first Point of Sale (POS) system built with React and Material-UI. |
+| [CapstonProject.VietnameseTrafficDetection](https://github.com/rizzTreecko/CapstonProject.VietnameseTrafficDetection) | A public project for Vietnamese traffic detection work. |
 
 ---
 
