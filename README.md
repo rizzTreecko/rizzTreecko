@@ -3,9 +3,7 @@
 </div>
 
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6AD3F3&center=true&vCenter=true&random=false&width=600&lines=Luonyeudoi;Doikhikhong;SENIOR INTERN;domixi+%F0%9F%9A%80" alt="Typing SVG" />
-  </a>
+  eat, sleep, code, GRAB, repeat
 </div>
 
 ---
@@ -19,10 +17,9 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizzTreecko&layout=compact&theme=transparent&hide_border=true&title_color=6AD3F3&text_color=c9d1d9&bg_color=0d1117&border_radius=10&langs_count=8" alt="Top Languages" height="165" />
-</div> -->
+</div>
 
----
-
+-->
 ## 🛠️ AI Stack
 
 <div align="center">
@@ -64,9 +61,8 @@
 
 </div> -->
 
----
 
-## 📈 Contribution Graph
+<!--## 📈 Contribution Graph
 
 <div align="center">
 
@@ -74,13 +70,14 @@
 
 </div>
 
----
+-->
 
 ## 🌟 Featured Projects
 
 | Project | Description |
 | --- | --- |
 | [wcdonalds](https://github.com/rizzTreecko/wcdonalds) | A modern, mobile-first Point of Sale (POS) system built with React and Material-UI. |
+| [ScholarCareAI]([https://github.com/rizzTreecko/wcdonalds](https://github.com/rizzTreecko/ScholarCareAI)) | System help detect student may have bad score in their test in near future base on their habitat.  |
 | [CapstonProject.VietnameseTrafficDetection](https://github.com/rizzTreecko/CapstonProject.VietnameseTrafficDetection) | A public project for Vietnamese traffic detection work. |
 
 ---
